@@ -1,4 +1,6 @@
 # PAC3_Manovich_Reloaded
+Ester Solé Vila
+esolevi@uoc.edu
 
 ## Plantejament
 
