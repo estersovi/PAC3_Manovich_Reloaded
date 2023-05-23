@@ -15,6 +15,13 @@ El disseny tipogràfic està experimentant una transformació radical. Com arrib
 
 En aquesta era digital, els professionals tenen accés a recursos i eines que els permeten transcendir les limitacions tradicionals de la tipografia. Elements visuals, gràfics o multimèdia contemporanis, ha creat una fusió d'elements tradicionals amb els actuals, convertir-se en una pràctica comuna. Això també inclou la incorporació d'imatges, animacions, efectes visuals i sons en el disseny. 
 
+No sols amplia el repertori de possibilitats estètiques, sinó que també enriqueix el discurs visual i la narrativa. La combinació d'estils tipogràfics contrastants o la superposició d'elements tipogràfics amb imatges o símbols crea una tensió visual que pot comunicar emocions, idees o conceptes de manera més impactant.
+
+A més, reflecteix la influència de la cultura digital i la participació activa del públic en la creació i distribució de contingut. La col·laboració, l'intercanvi i l'apropiació de diferents fonts i estils es nodreix del medi. S’ha convertit en una eina d'expressió col·lectiva i de representació d'identitats i subcultures diverses.
+
+La nova tipografia, o el nou medi de treballar-la, també té implicacions en la llegibilitat i accessibilitat. En combinar diferents estils i tècniques, es poden crear tipografies adaptades a diferents contextos i audiències. L'experimentació amb grandàries, pesos i espaiats pot millorar la llegibilitat en diferents mitjans i dispositius.
+
+En resum, la hibridació tipogràfica és una manifestació de l'esperit contemporani que desafia les convencions tradicionals i abraça la diversitat i l'experimentació. A través de la fusió d'estils, tècniques i mitjans, la tipografia es converteix en un mitjà d'expressió dinàmic i en constant evolució. La hibridació tipogràfica reflecteix la nostra capacitat per a adaptar-nos i abraçar la complexitat de la cultura visual contemporània.
 
 ## Art generatiu
 
