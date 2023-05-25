@@ -31,6 +31,9 @@ En resum, la hibridació tipogràfica és una manifestació de l'esperit contemp
 
 *L'art generatiu ha d'entendre's com un camp més ampli i independent, i pot aprofitar pràcticament qualsevol tipus de sistema, no sols les computadores, i de fet, és tan antic com l'art mateix (Balter, 2002) Ens ho menciona Martínez, C. D. P. (2022).*
 
+![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/3fa63bb7-cb35-4922-835b-0988f5dd3d44)
+
+
 L'art generatiu reflecteix la convivència de la creativitat humana i la tecnologia computacional. És la definició pura i un exemple molt clar d'hibridació. Representa una forma única d'expressió que desafia les convencions tradicionals i redefineix la nostra comprensió de la creativitat. 
 
 L’art generatiu troba l'ús d'algorismes i sistemes computacionals per a crear obres d'art que evolucionen i es generen automàticament. Aquests algorismes estableixen regles i paràmetres que guien la creació de l'art, permetent que les obres es generin de manera única i impredictible. Per tant, l'obra no depèn del tot del creador o artista
