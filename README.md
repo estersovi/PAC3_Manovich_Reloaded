@@ -35,7 +35,7 @@ En resum, la hibridació tipogràfica és una manifestació de l'esperit contemp
 
 ## 🖼️ Art generatiu
 
-<sub>*L'art generatiu ha d'entendre's com un camp més ampli i independent, i pot aprofitar pràcticament qualsevol tipus de sistema, no sols les computadores, i de fet, és tan antic com l'art mateix (Balter, 2002) Ens ho menciona Martínez, C. D. P. (2022).*</sub>
+> *L'art generatiu ha d'entendre's com un camp més ampli i independent, i pot aprofitar pràcticament qualsevol tipus de sistema, no sols les computadores, i de fet, és tan antic com l'art mateix (Balter, 2002) Ens ho menciona Martínez, C. D. P. (2022).*
 
 ![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/496e16f7-d669-48cb-9cc5-a7c800da9f10) 
 
