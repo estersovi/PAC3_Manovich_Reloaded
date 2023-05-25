@@ -19,6 +19,8 @@ Així ho defineix *Morison (1998)* mencionat a l'article de *Benito Cabello, M. 
 
 ![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/3fa63bb7-cb35-4922-835b-0988f5dd3d44)
 
+<sub>Thirteen Steps de Jonathan Puckey Font:https://jonathanpuckey.com/projects/lettering-tool/ </sub>
+
 El disseny tipogràfic està experimentant una transformació radical. Com arribat aquesta transformació? O millor dit, aquest pas fins a la hibridació del medi? Neix de la necessitat de trencar les barreres convencionals i explorar noves formes de comunicació visual. La fusió d'estils, tècniques i mitjans en la tipografia ens permet crear un llenguatge visual únic.  
 
 En aquesta era digital, els professionals tenen accés a recursos i eines que els permeten transcendir les limitacions tradicionals de la tipografia. Elements visuals, gràfics o multimèdia contemporanis, ha creat una fusió d'elements tradicionals amb els actuals, convertir-se en una pràctica comuna. 
