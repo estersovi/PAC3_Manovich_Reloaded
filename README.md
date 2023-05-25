@@ -5,6 +5,10 @@ esolevi@uoc.edu
 
 Data: 25/05/2023
 
+![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/7efeb68d-3b86-4def-b82b-fd1bbab21763)
+
+<sub>Recursos tipografics realitzats amb programació, Obra de Yeohyun Ahn, TYPE+CODE Font:http://yeoahn.com/designandchange/albums/flowers-2/content/flowerstoo/</sub>
+
 ## Plantejament
 
 En aquesta PAC compartiré amb vosaltres dos casos d'hibridació, la tipografia, que no és un cas evident a simple vista, i l'art generatiu. Ambdós temes són noves formes de comunicació i trenquen les convencions establertes, i que ens permet explorar la tecnologia i l’expressió visual. 
