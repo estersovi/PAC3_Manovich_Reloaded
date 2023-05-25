@@ -54,14 +54,16 @@ Aquests artistes creen els sistemes, a canvi cedeixen el resultat final, i el co
 L'art generatiu representa una evolució en la nostra comprensió del procés creatiu. A través de la creativitat humana i la tecnologia computacional, l'art generatiu desafia les convencions establertes, i ens convida a explorar noves formes d'expressió artística en constant evolució.
 
 ![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/162f5af7-bbaa-4905-bcb5-124cd7737017 "Obra realitzada per Hartmut Bohnacker")
-<sub>Obra realitzada per Hartmut Bohnacke, feta a través de prgramari</sub>
+<sub>Obra realitzada per Hartmut Bohnacke, feta a través de prgramari Font: https://www.designmadeingermany.de/2018/150861/</sub>
 
 
 ## Bibliografia:
 
-· Benito Cabello, M. F. y Sánchez Leyva, Mª J. (2019). Cómo grita la tipografía. Procesos de mediación cultural y condición de lo visible. Doxa Comunicación, 28, pp. 133-150
+· Benito Cabello, M. F. y Sánchez Leyva, Mª J. (2019).*Cómo grita la tipografía. Procesos de mediación cultural y condición de lo visible. Doxa Comunicación*, 28, pp. 133-150
 
-· Manovich, L. (2013). El software toma el mando. Editorial UOC.
+· Lupton, E. (2015).*Tipografia en pantalla*. Editorial GG
 
-· Martínez, C. D. P. (2022). Arte e inteligencia artificial: técnicas de aprendizaje automático en el arte generativo actual (Doctoral dissertation, Universidad Complutense de Madrid).
+· Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+
+· Martínez, C. D. P. (2022). *Arte e inteligencia artificial: técnicas de aprendizaje automático en el arte generativo actual* (Doctoral dissertation, Universidad Complutense de Madrid).
 
