@@ -7,6 +7,14 @@ Data: 25/05/2023
 
 ## Plantejament
 
+En aquesta PAC compartiré amb vosaltres dos casos d'hibridació, la tipografia, que no és un cas evident a simple vista, i l'art generatiu. Ambdós temes són noves formes de comunicació i trenquen les convencions establertes, i que ens permet explorar la tecnologia i l’expressió visual. 
+
+L'art generatiu és un enfocament artístic que es basa en la utilització d'algorismes i sistemes computacionals per a generar obres d'art que evolucionen i es desenvolupen de manera autònoma. 
+
+La tipografia és un element essencial en el disseny visual i la comunicació. No obstant això, en l'era digital, la tipografia ha evolucionat més enllà de la seva funció merament textual.
+
+Explorarem tant l'art generatiu com la hibridació de la tipografia com dos fenòmens que estan redefinint els límits de l'art i el disseny contemporani.
+
 ## 📐 Tipografia 
 
 Si Gutenberg pogués viatjar al futur i vegues tots els canvis tecnològics i científics de l’època actual, que pensaria? Li sentiria curiositat el canvi cultural que ha tingut la tipografia? La hibridació de la tipografia em sembla un fenomen fascinant com la part tradicional (o analògica) i la contemporània (digital) ha creat una intersecció en el disseny visual. 
