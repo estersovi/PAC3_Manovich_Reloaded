@@ -45,6 +45,9 @@ L'art generatiu representa una evolució en la nostra comprensió del procés cr
 
 ## Bibliografia:
 
-Benito Cabello, M. F. y Sánchez Leyva, Mª J. (2019). Cómo grita la tipografía. Procesos de mediación cultural y condición de lo visible. Doxa Comunicación, 28, pp. 133-150
-Manovich, L. (2013). El software toma el mando. Editorial UOC.
-Martínez, C. D. P. (2022). Arte e inteligencia artificial: técnicas de aprendizaje automático en el arte generativo actual (Doctoral dissertation, Universidad Complutense de Madrid).
+· Benito Cabello, M. F. y Sánchez Leyva, Mª J. (2019). Cómo grita la tipografía. Procesos de mediación cultural y condición de lo visible. Doxa Comunicación, 28, pp. 133-150
+
+· Manovich, L. (2013). El software toma el mando. Editorial UOC.
+
+· Martínez, C. D. P. (2022). Arte e inteligencia artificial: técnicas de aprendizaje automático en el arte generativo actual (Doctoral dissertation, Universidad Complutense de Madrid).
+
