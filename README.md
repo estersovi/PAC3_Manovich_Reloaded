@@ -17,6 +17,8 @@ Així ho defineix *Morison (1998)* mencionat a l'article de *Benito Cabello, M. 
 
 >*“La tipografia pot definir-se com l'art de disposar correctament el material d'imprimir d'acord amb un propòsit específic: el de col·locar les lletres, repartir l'espai i organitzar els tipus amb vista a prestar al lector la màxima ajuda per a la comprensió del text. La tipografia és el mitjà eficaç per a aconseguir un fi essencialment utilitari i només accidentalment estètic, ja que el gaudi visual de les formes constitueix rares vegades l'aspiració principal del lector.”*
 
+![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/3fa63bb7-cb35-4922-835b-0988f5dd3d44)
+
 El disseny tipogràfic està experimentant una transformació radical. Com arribat aquesta transformació? O millor dit, aquest pas fins a la hibridació del medi? Neix de la necessitat de trencar les barreres convencionals i explorar noves formes de comunicació visual. La fusió d'estils, tècniques i mitjans en la tipografia ens permet crear un llenguatge visual únic.  
 
 En aquesta era digital, els professionals tenen accés a recursos i eines que els permeten transcendir les limitacions tradicionals de la tipografia. Elements visuals, gràfics o multimèdia contemporanis, ha creat una fusió d'elements tradicionals amb els actuals, convertir-se en una pràctica comuna. 
@@ -31,8 +33,7 @@ En resum, la hibridació tipogràfica és una manifestació de l'esperit contemp
 
 *L'art generatiu ha d'entendre's com un camp més ampli i independent, i pot aprofitar pràcticament qualsevol tipus de sistema, no sols les computadores, i de fet, és tan antic com l'art mateix (Balter, 2002) Ens ho menciona Martínez, C. D. P. (2022).*
 
-![imagen {width=100px height=auto}](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/3fa63bb7-cb35-4922-835b-0988f5dd3d44)
-
+![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/fc88aed3-ba49-4b9a-840d-c01efc781def)
 
 L'art generatiu reflecteix la convivència de la creativitat humana i la tecnologia computacional. És la definició pura i un exemple molt clar d'hibridació. Representa una forma única d'expressió que desafia les convencions tradicionals i redefineix la nostra comprensió de la creativitat. 
 
@@ -45,6 +46,9 @@ Desafia la nostra concepció tradicional de l’art. En lloc de crear una obra d
 Aquests artistes creen els sistemes, a canvi cedeixen el resultat final, i el control d’aquest a les màquines. La màquina es converteix en un col·laborador creatiu, generant resultats imprevistos i sorprenents. Cada generació o iteració d'una obra d'art generativa pot ser única i diferent, creant una riquesa d'expressió i possibilitats estètiques. 
 
 L'art generatiu representa una evolució en la nostra comprensió del procés creatiu. A través de la creativitat humana i la tecnologia computacional, l'art generatiu desafia les convencions establertes, i ens convida a explorar noves formes d'expressió artística en constant evolució.
+
+![imagen](https://github.com/estersovi/PAC3_Manovich_Reloaded/assets/132821001/162f5af7-bbaa-4905-bcb5-124cd7737017 "Obra realitzada per Hartmut Bohnacker")
+
 
 ## Bibliografia:
 
