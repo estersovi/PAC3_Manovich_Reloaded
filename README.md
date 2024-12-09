@@ -1,4 +1,4 @@
-# PAC3_Manovich_Reloaded
+# Tipografia i Art Generatiu: Explorant les Noves Formes de Comunicació Visual
 Ester Solé Vila 
 
 esolevi@uoc.edu
